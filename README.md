@@ -52,9 +52,6 @@ Open the `index.html` file in your web browser to explore the Amazon.com landing
 
 Feel free to contribute by submitting issues or pull requests. Any feedback or improvements are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
